@@ -1,0 +1,1 @@
+Este trabalho demonstra concorrência e paralelismo
